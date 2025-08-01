@@ -1,9 +1,9 @@
-Here is a `README.md` file for your **Conversational RAG with PDF Uploads** app based on the uploaded `end-to-end-app.py`:
+
 
 ---
 
 ````markdown
-# 📚 Conversational RAG with PDF Uploads & Chat History
+## 📚 Conversational RAG with PDF Uploads & Chat History
 
 This Streamlit application allows you to chat with the content of your PDF documents using a **Conversational Retrieval-Augmented Generation (RAG)** pipeline. It leverages **Groq's Gemma2-9b-It** model and supports persistent session-based chat history.
 
@@ -81,12 +81,6 @@ To use the Groq LLM model (`Gemma2-9b-It`), you must enter your **Groq API key**
 
 * **LLM**: Groq's `Gemma2-9b-It`
 * **Embeddings**: HuggingFace's `all-MiniLM-L6-v2`
-
----
-
-## 📸 Screenshot
-
-![App Screenshot](https://placehold.co/800x400?text=Upload+PDFs+and+Chat+in+Real-time)
 
 ---
 
